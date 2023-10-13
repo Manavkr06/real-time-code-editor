@@ -23,7 +23,6 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "open-browser": "start http://localhost:3000",
     "deploy": "gh-pages -d build",
     "start:front": "react-scripts start",
     "start": "npm run build && npm run server:prod",
@@ -32,7 +31,7 @@
     "server:prod": "node server.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "concurrently \"npm run start:front\" \"npm run open-browser\""
+    "dev": "npm run start:front"
   },
   "eslintConfig": {
     "extends": [
