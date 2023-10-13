@@ -23,7 +23,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "open-browser": "start https//localhost:3000",
+    "open-browser": "start http://localhost:3000",
     "deploy": "gh-pages -d build",
     "start:front": "react-scripts start",
     "start": "npm run build && npm run server:prod",
