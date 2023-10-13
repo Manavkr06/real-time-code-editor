@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Manavkr06/real-time-code-editor/static/css/main.5b1ffe7d.css",
+    "main.js": "/Manavkr06/real-time-code-editor/static/js/main.efcca8aa.js",
+    "static/js/787.4a5f9ec1.chunk.js": "/Manavkr06/real-time-code-editor/static/js/787.4a5f9ec1.chunk.js",
+    "index.html": "/Manavkr06/real-time-code-editor/index.html",
+    "main.5b1ffe7d.css.map": "/Manavkr06/real-time-code-editor/static/css/main.5b1ffe7d.css.map",
+    "main.efcca8aa.js.map": "/Manavkr06/real-time-code-editor/static/js/main.efcca8aa.js.map",
+    "787.4a5f9ec1.chunk.js.map": "/Manavkr06/real-time-code-editor/static/js/787.4a5f9ec1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b1ffe7d.css",
+    "static/js/main.efcca8aa.js"
+  ]
+}
