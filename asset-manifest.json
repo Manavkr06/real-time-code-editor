@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b1ffe7d.css",
-    "main.js": "/static/js/main.b27866e4.js",
-    "static/js/787.4a5f9ec1.chunk.js": "/static/js/787.4a5f9ec1.chunk.js",
-    "index.html": "/index.html",
-    "main.5b1ffe7d.css.map": "/static/css/main.5b1ffe7d.css.map",
-    "main.b27866e4.js.map": "/static/js/main.b27866e4.js.map",
-    "787.4a5f9ec1.chunk.js.map": "/static/js/787.4a5f9ec1.chunk.js.map"
+    "main.css": "/Manavkr06/real-time-code-editor/static/css/main.5b1ffe7d.css",
+    "main.js": "/Manavkr06/real-time-code-editor/static/js/main.9c4f11de.js",
+    "static/js/787.4a5f9ec1.chunk.js": "/Manavkr06/real-time-code-editor/static/js/787.4a5f9ec1.chunk.js",
+    "index.html": "/Manavkr06/real-time-code-editor/index.html",
+    "main.5b1ffe7d.css.map": "/Manavkr06/real-time-code-editor/static/css/main.5b1ffe7d.css.map",
+    "main.9c4f11de.js.map": "/Manavkr06/real-time-code-editor/static/js/main.9c4f11de.js.map",
+    "787.4a5f9ec1.chunk.js.map": "/Manavkr06/real-time-code-editor/static/js/787.4a5f9ec1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b1ffe7d.css",
-    "static/js/main.b27866e4.js"
+    "static/js/main.9c4f11de.js"
   ]
 }
