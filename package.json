@@ -32,7 +32,7 @@
     "server:prod": "node server.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "conscurrently \"npm run start:front\" \"npm run open-browser\""
+    "dev": "concurrently \"npm run start:front\" \"npm run open-browser\""
   },
   "eslintConfig": {
     "extends": [
